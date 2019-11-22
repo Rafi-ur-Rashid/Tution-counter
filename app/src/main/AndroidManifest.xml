@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.rf.tutioncounter">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity
+            android:name=".FirstActivity"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".WelcomeActivity"
+            android:label="@string/app_name"
+            android:theme="@style/FullscreenTheme">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".Invoke1stActivity"
+            android:label="@string/title_activity_invoke1st"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".TutorProfileMakerActivity"
+            android:label="@string/title_activity_tutor_profile"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".tutorProfileCreatedActivity"
+            android:label="@string/title_activity_tutor_profile_created"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".TutorProfilesListActivity"
+            android:label="@string/title_activity_tutor_profiles"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".tutorProfileDetils"
+            android:label="@string/title_activity_tutor_profile_detils"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".studentInfoMakerActivity"
+            android:label="@string/title_activity_student_info_maker"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".studentInfoGatheredActivity"
+            android:label="@string/title_activity_student_info_gathered"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".studentInfoListActivity"
+            android:label="@string/studentsList"
+            android:theme="@style/AppTheme.NoActionBar" />
+
+        <service
+            android:name=".Services.CountStarter"
+            android:exported="false"
+            android:stopWithTask="false" />
+
+        <activity
+            android:name=".settingsActivity"
+            android:label="@string/title_activity_settings"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".studentInfoDetailsActivity"
+            android:label="@string/title_activity_student_info_details"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".editTutorProfileActivity"
+            android:label="@string/title_activity_edit_tutor_profile"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".editStudentInfoActivity"
+            android:label="@string/title_activity_edit_student_info"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".DateListActivity"
+            android:label="@string/title_activity_date_list"
+            android:theme="@style/AppTheme.NoActionBar"></activity>
+    </application>
+
+</manifest>

@@ -1,0 +1,112 @@
+<resources>
+    <string name="app_name">টিউশন কাউন্টার</string>
+    <string name="action_settings">Settings</string>
+    <string name="buttonTutor">টিউটর কর্ণার</string>
+    <string name="buttonStudent">স্টুডেন্ট কর্ণার</string>
+    <string name="InvokeActivityText1">স্বাগতম টিউটর!</string>
+    <string name="InvokeActivityText2">আপনার প্রথম প্রোফাইল তৈরি করে ফেলুন</string>
+    <string name="tutorProfileMakeSuccessful">সফলভাবে প্রোফাইল তৈরি সম্পন্ন হয়েছে!</string>
+    <string name="studentInfoMakeSuccessful">সফলভাবে স্টুডেন্টের তথ্যাবলী সংগৃহীত হয়েছে!</string>
+    <string name="studentInfoMakeSuccessful2">সফলভাবে স্টুডেন্টের তথ্যাবলী সংগৃহীত এবং দিন কাউন্ট করা শুরু হয়েছে!</string>
+    <string name="invokeToAddAstudent">এখনই আপনার একজন স্টুডেন্টকে অন্তর্ভূক্ত করুন</string>
+    <string name="invokeToAddAnoyherstudent">আপনার আরও একজন স্টুডেন্টকে অন্তর্ভূক্ত করুন</string>
+    <string name="invokeToAddNewstudent">একজন নতুন স্টুডেন্ট অন্তর্ভূক্ত করুন</string>
+    <string name="invokeToAddNewClass">একটি এক্সট্রা ক্লাস অন্তর্ভূক্ত করুন</string>
+    <string name="Classtaken1">আজ </string>
+    <string name="Classtaken2">এর একটি ক্লাস রয়েছে </string>
+    <string name="checkYourProfile">আপনার প্রোফাইলটি চেক করুন</string>
+    <string name="checkYourStudentInfo">স্টুডেন্টটির তথ্যাবলী চেক করুন</string>
+    <string name="noOfStudents">মোট স্টুডেন্ট সংখ্যা</string>
+    <string name="no8">৮</string>
+    <string name="newTutorProfile">নতুন টিউটর প্রোফাইল যোগ করুন</string>
+    <string name="currentStudent">বর্তমান স্টুডেন্ট তালিকা</string>
+    <string name="addAnewStudent">একজন নতুন স্টুডেন্ট অন্তর্ভূক্ত করুন</string>
+    <string name="Name">নাম(আবশ্যক)</string>
+    <string name="Name2">নাম</string>
+    <string name="Class">শ্রেণী</string>
+    <string name="Subject">বিষয়</string>
+    <string name="Age"> বয়স</string>
+    <string name="date"> ~তারিখ~</string>
+    <string name="day"> ~বার~</string>
+    <string name="Location"> শিক্ষা-প্রতিষ্ঠাণ</string>
+    <string name="passWord">পাস-ওয়ার্ড</string>
+    <string name="Sex">আপনি</string>
+    <string name="Male">পুরুষ</string>
+    <string name="Female">মহিলা</string>
+    <string name="Student">স্টুডেন্ট</string>
+    <string name="Malestd">ছাত্র</string>
+    <string name="Femalestd">ছাত্রী</string>
+    <string name="weekAsk">সপ্তাহের যেসব দিনে পড়ান</string>
+    <string name="countAsk">কাউন্ট শুরু করা যাক</string>
+    <string name="countTask">কাউন্ট সক্রিয় করুন</string>
+    <string name="monthAsk1">মাসে</string>
+    <string name="weekWarning">সপ্তাহের অন্তত একটি দিন চিহ্নিত করতে হবে </string>
+    <string name="monthWarning">মাসে শূন্য দিন হিসাবের অনপোযুক্ত </string>
+    <string name="monthAsk2">দিন পড়ান</string>
+    <string name="Warning">অন্ততপক্ষে নামের ঘরটি পূরণ করুন</string>
+    <string name="title_activity_welcome">WelcomeActivity</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="monthCount1">এই মাসে</string>
+    <string name="monthCount2">টি ক্লাস কাউন্ট হয়েছে</string>
+    <string name="Alert">সতর্কতা</string>
+    <string name="QuitDialoge">আপনি কি বেরিয়ে যাওয়ার ব্যাপারে নিশ্চিত?</string>
+    <string name="yes">হ্যা</string>
+    <string name="no">না</string>
+    <string name="CountDialoge">আপনি কি কাউন্ট শুরু না করার ব্যাপারে নিশ্চিত?</string>
+    <string name="countDialoge">আপনি কি কাউন্ট শুরু করতে চান?</string>
+    <string name="title_activity_welocome">WelocomeActivity</string>
+    <string name="counting_started">সফলভাবে কাউন্ট শুরু হয়েছে</string>
+    <string name="settingsNotifc">নোটিফিকেশন </string>
+    <string name="days">সপ্তাহের যেসব দিনে ক্লাস</string>
+    <string name="underflowStudentNum">বর্তমান স্টুডেন্ট সংখ্যা</string>
+    <string name="daysMonth">এই মাসে এখন পর্যন্ত যেসব দিনের ক্লাস কাউন্ট হয়েছে
+                তা দেখতে এখানে ক্লিক করুন </string>
+    <string name="daysMonthNull">একটি ক্লাস অন্তর্ভুক্ত করতে এখানে ক্লিক করুন</string>
+    <string-array name="dayNumber">
+        <item>৮</item>
+        <item>১০</item>
+        <item>১২</item>
+        <item>১৫</item>
+        <item>১৬</item>
+        <item>১৮</item>
+        <item>২০</item>
+        <item>২২</item>
+        <item>২৫</item>
+    </string-array>
+    <string name="title_activity_fullscreen">FullscreenActivity</string>
+    <string name="title_activity_invoke1st">Invoke1st</string>
+    <string name="title_activity_tutor_profile">TutorProfileActivity</string>
+    <string name="title_activity_tutor_profile_created">tutorProfileCreatedActivity</string>
+    <string name="title_activity_tutor_profiles">TutorProfiles</string>
+    <string name="title_activity_tutor_profile_detils">tutorProfileDetils</string>
+    <string name="title_activity_student_info_maker">studentInfoMakerActivity</string>
+    <string name="title_activity_student_info_gathered">studentInfoGatheredActivity</string>
+    <string name="title_activity_start_notification">startNotificationActivity</string>
+    <string name="title_activity_student_info_list">studentInfoListActivity</string>
+    <string name="title_activity_student_info_details">StudentInfoDetails</string>
+    <string name="title_activity_settings">settingsActivity</string>
+    <string name="title_activity_scrolling">ScrollingActivity</string>
+    <string name="edit">Edit</string>
+    <string name="studentsList">স্টুডেন্ট তালিকা</string>
+    <string name="tutorsList">টিউটর তালিকা</string>
+    <string name="delete">Delete</string>
+    <string name="deleteDialoge1">আপনি কি এই স্টুডেন্টের তথ্যাদি ডিলিট করার ব্যাপারে নিশ্চিত?</string>
+    <string name="deleteDialoge2">আপনি কি এই টিউটরের তথ্যাদি ডিলিট করার ব্যাপারে নিশ্চিত?</string>
+    <string name="deleteDialoge3">আপনি কি এই ক্লাসটি ডিলিট করার ব্যাপারে নিশ্চিত?</string>
+    <string name="monthCountNull">কাউন্ট সক্রিয় করা হয়নি</string>
+    <string name="info">Info</string>
+    <string name="infoDialogue1">কোনো টিউটরের তথ্যাদি এডিট বা ডিলিট করতে নামের উপর লং প্রেস করুন</string>
+    <string name="infoDialogue2">কোনো স্টুডেন্টের তথ্যাদি এডিট বা ডিলিট করতে নামের উপর লং প্রেস করুন</string>
+    <string name="infoDialogue3">কোনো ক্লাস বাদ দিতে চাইলে ক্লাসটির তারিখের ওপর লং প্রেস করুন</string>
+    <string name="title_activity_edit_tutor_profile">editTutorProfileActivity</string>
+    <string name="title_activity_edit_student_info">editStudentInfoActivity</string>
+    <string name="mcount1">প্রতি মাসে মোট</string>
+    <string name="mcount2">টি ক্লাস কাউন্ট হবে</string>
+    <string name="dateEnquiry">এক্সট্রা ক্লাস এর তারিখ:</string>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_date_list">DateListActivity</string>
+
+</resources>
